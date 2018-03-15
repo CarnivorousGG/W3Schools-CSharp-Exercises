@@ -13,7 +13,7 @@
             //var test = new Exercise3();
             //test.Start();
 
-            var test = new Exercise3();
+            var test = new Exercise8();
             test.Start();
         }
     }
