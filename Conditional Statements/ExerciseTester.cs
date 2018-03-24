@@ -6,9 +6,10 @@ namespace Conditional_Statements
     {
         static void Main(string[] args)
         {
-            var exerciseTester = new Exercise7();
+            var exerciseTester = new Exercise16();
             exerciseTester.Start();
             
         }
+        
     }
 }
