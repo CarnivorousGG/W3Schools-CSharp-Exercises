@@ -6,7 +6,7 @@ namespace For_Loops
     {
         static void Main(string[] args)
         {
-            var exercise = new Exercise8();
+            var exercise = new Exercise23();
             exercise.Start();
         }
     }
