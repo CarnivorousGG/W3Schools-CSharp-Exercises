@@ -1,15 +1,13 @@
 ﻿using System;
 
-namespace For_Loops
+namespace Array
 {
-    class ExerciseTester
+    class ExerciseStarter
     {
         static void Main(string[] args)
         {
-            var exercise = new Exercise30();
+            var exercise = new Exercise1();
             exercise.Start();
         }
-
     }
 }
-
