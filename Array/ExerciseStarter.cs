@@ -6,7 +6,7 @@ namespace Array
     {
         static void Main(string[] args)
         {
-            var exercise = new Exercise1();
+            var exercise = new Exercise5();
             exercise.Start();
         }
     }
